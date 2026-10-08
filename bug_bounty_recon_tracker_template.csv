@@ -1,0 +1,4 @@
+Target Domain,Apex Discovery,ASNs (Owned IP Ranges),Port Scan ASN IPs,Shodan Passive Analysis,Acquisitions,Cloud Recon,Reverse WHOIS,Linked Discovery,Ad/Analytics Relationships,Subdomain Scraping,GitHub Scraping,GitHub Dorking,Subdomain Bruteforce,Subdomain Permutations,Google Dorking,URL Discovery (Wayback/GAU),Parameter Discovery,JS File Analysis,Technology Fingerprinting,Content Discovery,Vulnerability Scanning,Manual Testing,Notes
+example.com,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,
+app.example.com,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,
+api.example.com,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,
